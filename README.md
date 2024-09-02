@@ -4,7 +4,7 @@ Welcome to the Financial Dashboard project! This is a full-stack web application
 
 ## Live Demo
 
-[<img alt="Financial Dashboard logo" src="./public/logo.png" width="18"/>](https://nextjs-dashboard-snowy-seven.vercel.app/) [Financial Dashboard](https://nextjs-dashboard-snowy-seven.vercel.app/)
+[<img alt="Financial Dashboard logo" src="./public/logo.png" width="25"/>](https://nextjs-dashboard-snowy-seven.vercel.app/) [Financial Dashboard](https://nextjs-dashboard-snowy-seven.vercel.app/)
 
 ## Features
 
