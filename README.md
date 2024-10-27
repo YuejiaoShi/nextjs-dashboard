@@ -2,9 +2,11 @@
 
 Welcome to the Financial Dashboard project! This is a full-stack web application built with Next.js, designed to help users manage their finances efficiently. The app includes user authentication, a dynamic dashboard, and the ability to manage invoices.
 
-## Live Demo
+## Visual Overview
 
-[<img alt="Financial Dashboard logo" src="./public/logo.png" width="25"/><span>Financial Dashboard</span>](https://nextjs-dashboard-snowy-seven.vercel.app/)
+[<img src="./preview/dashboard.png" alt=" Dashboard" width="700">](./preview/dashboard.png)
+[<img src="./preview/invoices.png" alt=" Invoices" width="700">](./preview/invoices.png)
+[<img src="./preview/customers.png" alt=" Customers" width="700">](./preview/customers.png)
 
 ## Features
 
